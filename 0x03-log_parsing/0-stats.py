@@ -32,4 +32,4 @@ if __name__ == '__main__':
     except (KeyboardInterrupt, EOFError):
         print_stats(file_size, status_codes)
     print_stats(file_size, status_codes)
-    
+
